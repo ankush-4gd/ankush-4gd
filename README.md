@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankush-4gd
-- 📫 ankush@4gd.a
+- 📫 ankush@4gd.ai
 
 <!---
 ankush-4gd/ankush-4gd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
